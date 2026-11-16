@@ -4,7 +4,7 @@
 内有基本rom跟安装包
 
 ## 预览图
-<p align="center">
+<p align="assets">
 <img src="Picture/0.jpg" width="240"/>
 <img src="Picture/1.jpg" width="240"/>
 <img src="Picture/2.jpg" width="240"/>
