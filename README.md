@@ -5,10 +5,10 @@
 
 ## 预览图
 <p align="center">
-<img src="Picture/0.jpg" width="240"/>
-<img src="Picture/1.jpg" width="240"/>
-<img src="Picture/2.jpg" width="240"/>
-<img src="Picture/3.jpg" width="240"/>
-<img src="Picture/4.jpg" width="240"/>
-<img src="Picture/5.jpg" width="240"/>
+<img src="assets/0.jpg" width="240"/>
+<img src="assets/1.jpg" width="240"/>
+<img src="assets/2.jpg" width="240"/>
+<img src="assets/3.jpg" width="240"/>
+<img src="assets/4.jpg" width="240"/>
+<img src="assets/5.jpg" width="240"/>
 </p>
