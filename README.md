@@ -1,7 +1,7 @@
 
 # AFBN是一款街机模拟器，支持的游戏很多街机、FC、SFC、GBA、MD等…
+内有基本rom跟安装包支持自定义按键图标
 留个夸克链接给大家分享：https://pan.quark.cn/s/a3d6ca15003c#/list/share
-内有基本rom跟安装包
 
 ## 预览图
 <p align="center">
